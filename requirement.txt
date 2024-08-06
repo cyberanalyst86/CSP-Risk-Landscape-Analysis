@@ -1,0 +1,4 @@
+GoogleNews
+beautifulsoup4
+pandas
+google.generativeai
