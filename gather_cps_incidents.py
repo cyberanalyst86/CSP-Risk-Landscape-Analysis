@@ -1,10 +1,8 @@
 from GoogleNews import GoogleNews
-from newspaper import Article
 import pandas as pd
 import time
 import re
 import datetime
-import telebot
 from get_date_of_article import *
 
 def get_today():
