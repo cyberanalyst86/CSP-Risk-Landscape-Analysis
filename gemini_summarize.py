@@ -12,9 +12,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 #Get credentials
 #---------------------------------------------------------------
-GEMINI_API_KEY = "AIzaSyCMYaDZ49J5UMYYXmrihGn9Sjc8iTOFF1U"
-#AIzaSyCMYaDZ49J5UMYYXmrihGn9Sjc8iTOFF1U
-#AIzaSyAbIgixv5mecc9dMhf7-_Z6ciNGIiWdUmk
+GEMINI_API_KEY = ""
 os.environ['GOOGLE_API_KEY'] = GEMINI_API_KEY
 
 
